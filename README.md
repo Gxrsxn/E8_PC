@@ -1,4 +1,8 @@
 # E8_PC
-Buenos días casi tardes
+Buenas tardes, el equipo esta conformado por:
+  1. Gerson Hiram Alcocer Jimenez
+  2.
+  3.
+
 Hola mundo
 Segunda linea de codigo-CarlosSoto

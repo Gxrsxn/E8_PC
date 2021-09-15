@@ -5,5 +5,5 @@ Buenas tardes, el equipo esta conformado por:
   3. Sofia Martinez Cisneros
 
 Hola mundo
-Segunda linea de codigo-CarlosSoto
+Segunda linea de codigo - CarlosSoto07
 Profe perdoneme si yo quise aplicar los comandos en el wsl ;_;
